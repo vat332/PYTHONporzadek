@@ -1,0 +1,2 @@
+# PYTHONporzadek
+wizualizacja danych
